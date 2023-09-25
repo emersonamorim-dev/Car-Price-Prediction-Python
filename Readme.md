@@ -1,8 +1,7 @@
 # Car-Price-Prediction - Previsão de Preço Médio 🚀 🔄 🌐
 
-Codificação em Python para um Projeto Completo Data Science de Car Price Prediction é uma aplicação de aprendizado de máquina com uso de regressão que visa prever um valor contínuo, como o preço médio de carros, com base em vários atributos.
-Em resumo, aplicação faz parte de um projeto de aprendizado de máquina para regressão. O objetivo deste projeto é prever um valor contínuo, como o preço médio de um produto, com base em outros atributos. 
-Este projeto não apenas destaca o poder do aprendizado de máquina, mas também o potencial da ciência de dados em fornecer insights valiosos em setores tradicionais, como o automobilístico.
+Codificação em Python para o projeto 'Data Science de Car Price Prediction' é uma aplicação de aprendizado de máquina que utiliza técnicas de regressão. Seu objetivo é prever o preço médio de carros com base em diversos atributos. Este projeto não só evidencia a eficácia do aprendizado de máquina, mas também demonstra o potencial da ciência de dados em trazer insights valiosos para setores tradicionais, como o automobilístico.
+Nesta versão, a informação foi condensada e as repetições foram eliminadas, tornando a descrição mais direta e clara.
 
 
 ## 📓 Notebooks do Projeto
