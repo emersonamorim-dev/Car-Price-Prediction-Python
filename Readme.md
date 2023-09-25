@@ -145,6 +145,9 @@ O principal objetivo deste projeto é desenvolver um modelo de aprendizado de m�
 O objetivo deste projeto é prever um valor contínuo, como o preço médio de um produto, com base em outros atributos. 
 O argumento --predict permite que você use o modelo treinado para fazer previsões em novos dados, tornando-o útil para aplicativos de produção.
 
+### Diagrana da Aplicação:
+
+<img align="center" height="900" width="720" src="https://github.com/emersonamorim-dev/Car-Price-Prediction-Python/blob/main/storytelling/diagrama.jpg" />
 
 
 ### Conclusão
