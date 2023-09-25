@@ -1,7 +1,8 @@
 # Car-Price-Prediction - Previsão de Preço Médio 🚀 🔄 🌐
 
 Codificação em Python para um Projeto Completo Data Science de Car Price Prediction é uma aplicação de aprendizado de máquina com uso de regressão que visa prever um valor contínuo, como o preço médio de carros, com base em vários atributos.
-Implementado no projeto de aprendizado de máquina de regressão. O objetivo deste projeto é prever um valor contínuo, como o preço médio de um produto, com base em outros atributos. 
+Em resumo, aplicação faz parte de um projeto de aprendizado de máquina para regressão. O objetivo deste projeto é prever um valor contínuo, como o preço médio de um produto, com base em outros atributos. 
+Este projeto não apenas destaca o poder do aprendizado de máquina, mas também o potencial da ciência de dados em fornecer insights valiosos em setores tradicionais, como o automobilístico.
 
 
 ## 📓 Notebooks do Projeto
@@ -145,13 +146,10 @@ O principal objetivo deste projeto é desenvolver um modelo de aprendizado de m�
 O objetivo deste projeto é prever um valor contínuo, como o preço médio de um produto, com base em outros atributos. 
 O argumento --predict permite que você use o modelo treinado para fazer previsões em novos dados, tornando-o útil para aplicativos de produção.
 
-Em resumo, aplicação faz parte de um projeto de aprendizado de máquina de regressão. Este tipo de projeto pode ser usado para prever valores contínuos com base em outros atributos.
 
 
 ### Conclusão
 Este projeto é uma implementação robusta e eficaz de um modelo de regressão. Pode ser adaptado e usado em diversos cenários onde a previsão de valores contínuos é necessária. A estrutura modular do código facilita a expansão e adaptação para diferentes conjuntos de dados e requisitos.
-
-Com a Ciência de Dados, transformamos um problema complexo e multifacetado em uma solução elegante e precisa. Este projeto não apenas destaca o poder do aprendizado de máquina, mas também o potencial da ciência de dados em fornecer insights valiosos em setores tradicionais, como o automobilístico.
 
 
 ### Autor:
