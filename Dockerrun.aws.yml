@@ -1,0 +1,28 @@
+    - name: Create Dockerrun.aws.json
+      run: |
+        echo '{
+          "AWSEBDockerrunVersion": "1",
+          "Image": {
+            "Name": "$ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG",
+            "Update": "true"
+          },
+          "Ports": [
+            {
+              "ContainerPort": "80"
+            }
+          ]
+        }' > Dockerrun.aws.json
+
+    - name: Install AWS Elastic Beanstalk CLI
+      run: |
+        pip install awsebcli
+
+    - name: Initialize Elastic Beanstalk Directory
+      run: |
+        eb init nome_da_aplicacao -r us-west-2 -p docker
+
+    - name: Deploy to AWS Elastic Beanstalk
+      run: |
+        # If the environment doesn't exist, create it. Otherwise, deploy to the existing environment.
+        eb create nome_do_ambiente || eb deploy
+

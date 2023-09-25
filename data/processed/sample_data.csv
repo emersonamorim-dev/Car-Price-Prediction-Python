@@ -1,0 +1,5 @@
+Preço Médio,Litros,Marca_Toyota_True,Marca_VW - VolksWagen_True,Modelo_Focus_True,Modelo_Golf_True,Cambio_Manual_True,Inducao_Turbo_True,versao_Titanium_True,versao_XEI_True
+80000,2.0,False,True,False,True,True,True,False,False
+75000,2.0,False,False,True,False,True,False,True,False
+90000,1.8,True,False,False,False,False,False,False,True
+80000,2.0,False,True,False,False,True,True,False,False

@@ -1,0 +1,303 @@
+,Mes de referencia,Codigo Fipe,Marca,Modelo,Preco Medio,Combustivel,Tracao,Litros,Valvulas,v,cv,p,Cambio,Inducao,Versao
+0,9/1/2020,018065-3,Kia Motors,Bongo,88823,Diesel,4x2 | Integral on-road,2.5,,nan,,nan,, Turbo,K-2500
+1,9/1/2020,018093-9,Kia Motors,Cerato,96201,Flex,4x2 | Integral on-road,2,16V,nan,,nan,Aut,Aspirado,EX
+2,9/1/2020,018092-0,Kia Motors,Cerato,105540,Flex,4x2 | Integral on-road,2,16V,nan,,nan,Aut,Aspirado,SX
+3,9/1/2020,018089-0,Kia Motors,Grand,326020,Gasolina,4x2 | Integral on-road,3.3,24V,V6,270,nan,Aut,Aspirado,Carnival EX
+4,9/1/2020,018094-7,Kia Motors,RIO,80331,Flex,4x2 | Integral on-road,1.6,,nan,,nan,Aut,Aspirado,EX
+5,9/1/2020,018095-5,Kia Motors,RIO,69710,Flex,4x2 | Integral on-road,1.6,,nan,,nan,Aut,Aspirado,LX
+6,9/1/2020,018073-4,Kia Motors,Sorento,193314,Gasolina,4x2 | Integral on-road,2.4,16V,nan,,nan,Aut,Aspirado,
+7,9/1/2020,018074-2,Kia Motors,Sorento,197105,Gasolina,4x4 off-road,2.4,16V,nan,,nan,Aut,Aspirado,
+8,9/1/2020,018076-9,Kia Motors,Sorento,257304,Gasolina,4x4 off-road,3.5,24V,V6,,nan,Aut,Aspirado,
+9,9/1/2020,018070-0,Kia Motors,SOUL,86939,Flex,4x2 | Integral on-road,1.6,16V,nan,,nan,Aut,Aspirado,
+10,9/1/2020,018079-3,Kia Motors,Sportage,161170,Flex,4x2 | Integral on-road,2,16V,nan,,nan,Aut,Aspirado,EX
+11,9/1/2020,018077-7,Kia Motors,Sportage,121303,Flex,4x2 | Integral on-road,2,16V,nan,,nan,Aut,Aspirado,LX
+12,9/1/2020,018091-2,Kia Motors,Stinger,350154,Gasolina,4x2 | Integral on-road,3.3,,V6,370,nan,Aut, bi-turbo,GT
+13,9/1/2020,078017-0,LAMBORGHINI,AVENTADOR,7200000,Gasolina,4x2 | Integral on-road,,,nan,,nan,,Aspirado,LP 770-4 SVJ
+14,9/1/2020,078012-0,LAMBORGHINI,AVENTADOR,3980000,Gasolina,4x2 | Integral on-road,,,nan,,nan,,Aspirado,S LP 740-4
+15,9/1/2020,078016-2,LAMBORGHINI,AVENTADOR,4964150,Gasolina,4x2 | Integral on-road,,,nan,,nan,,Aspirado,S LP 740-4 ROADSTER
+16,9/1/2020,078014-6,LAMBORGHINI,HURACAN,2915647,Gasolina,4x2 | Integral on-road,,,nan,,nan,,Aspirado,Coupe Performante LP 640-4
+17,9/1/2020,078013-8,LAMBORGHINI,HURACAN,2205100,Gasolina,4x2 | Integral on-road,,,nan,,nan,,Aspirado,Coupe RWD LP 580-2
+18,9/1/2020,078018-9,LAMBORGHINI,HURACAN,3200000,Gasolina,4x2 | Integral on-road,,,nan,,nan,,Aspirado,EVO Coupe LP 640-4
+19,9/1/2020,078019-7,LAMBORGHINI,HURACAN,3695000,Gasolina,4x2 | Integral on-road,,,nan,,nan,,Aspirado,EVO Spyder LP 640-4
+20,9/1/2020,078015-4,LAMBORGHINI,URUS,2710000,Gasolina,4x2 | Integral on-road,,,nan,,nan,,Aspirado,LP-650-4
+21,9/1/2020,028075-5,Suzuki,Jimny,94900,Gasolina,4x2 | Integral on-road,1.3,16V,nan,,nan,,Aspirado,4SPORT DESERT
+22,9/1/2020,028080-1,Suzuki,Jimny,98997,Gasolina,4x2 | Integral on-road,1.3,16V,nan,,nan,,Aspirado,4SPORT FOREST
+23,9/1/2020,028047-0,Suzuki,Jimny,85443,Gasolina,4x2 | Integral on-road,1.3,16V,nan,,nan,,Aspirado,4SPORT/ 4WORK
+24,9/1/2020,028079-8,Suzuki,Jimny,128995,Gasolina,4x2 | Integral on-road,1.5,16V,nan,,nan,Aut,Aspirado,Sierra 4STYLE ALLGRIP
+25,9/1/2020,028078-0,Suzuki,Jimny,116996,Gasolina,4x2 | Integral on-road,1.5,16V,nan,,nan,Aut,Aspirado,Sierra 4YOU ALLGRIP
+26,9/1/2020,028077-1,Suzuki,Jimny,108490,Gasolina,4x2 | Integral on-road,1.5,16V,nan,,nan,Mec,Aspirado,Sierra 4YOU ALLGRIP
+27,9/1/2020,028015-1,Suzuki,Jimny,83386,Gasolina,4x2 | Integral on-road,1.3,16V,nan,,nan,,Aspirado,Wide/ Jimny/4ALL
+28,9/1/2020,028069-0,Suzuki,S-CROSS,120490,Gasolina,4x2 | Integral on-road,1.4,16V,nan,,nan,Aut, Turbo,4STYLE
+29,9/1/2020,028071-2,Suzuki,S-CROSS,128355,Gasolina,4x2 | Integral on-road,1.4,16V,nan,,nan,Aut, Turbo,4STYLE ALLGRIP
+30,9/1/2020,028074-7,Suzuki,S-CROSS,143188,Gasolina,4x2 | Integral on-road,1.4,16V,nan,,nan,Aut, Turbo,4STYLE-S ALLGRIP
+31,9/1/2020,028064-0,Suzuki,Vitara,103476,Gasolina,4x2 | Integral on-road,1.6,16V,nan,,nan,Aut,Aspirado,4ALL
+32,9/1/2020,028068-2,Suzuki,Vitara,128885,Gasolina,4x2 | Integral on-road,1.4,16V,nan,,nan,Aut, Turbo,4SPORT ALLGRIP
+33,9/1/2020,028076-3,Suzuki,Vitara,135494,Gasolina,4x2 | Integral on-road,1.4,16V,nan,,nan,Aut, Turbo,4STYLE ALLGRIP
+34,9/1/2020,028065-8,Suzuki,Vitara,114045,Gasolina,4x2 | Integral on-road,1.6,16V,nan,,nan,Aut,Aspirado,4YOU
+35,9/1/2020,005505-0,VW - VolksWagen,AMAROK,178749,Diesel,4x4 off-road,2,,nan,,nan,Aut, Turbo,Comfor CD
+36,9/1/2020,005338-4,VW - VolksWagen,AMAROK,139522,Diesel,4x4 off-road,2,16V,nan,,nan,, Turbo,CS /S
+37,9/1/2020,005506-9,VW - VolksWagen,AMAROK,213606,Diesel,4x4 off-road,3,,nan,,nan,Aut, Turbo,Extreme CD
+38,9/1/2020,005340-6,VW - VolksWagen,AMAROK,195688,Diesel,4x4 off-road,2,16V,nan,,nan,Aut, Turbo,HighCD
+39,9/1/2020,005483-6,VW - VolksWagen,AMAROK,203191,Diesel,4x4 off-road,3,,nan,,nan,Aut, Turbo,Highline CD
+40,9/1/2020,005325-2,VW - VolksWagen,AMAROK,170698,Diesel,4x4 off-road,2,16V,nan,,nan,, Turbo,SE CD
+41,9/1/2020,005481-0,VW - VolksWagen,Fox,54204,Flex,4x2 | Integral on-road,1.6,8V,nan,,5p,,Aspirado,Connect
+42,9/1/2020,005480-1,VW - VolksWagen,Fox,58845,Flex,4x2 | Integral on-road,1.6,8V,nan,,5p,,Aspirado,Xtreme
+43,9/1/2020,005490-9,VW - VolksWagen,Gol,48542,Flex,4x2 | Integral on-road,1,12V,nan,,5p,,Aspirado,
+44,9/1/2020,005502-6,VW - VolksWagen,Gol,60827,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Aut,Aspirado,MSI
+45,9/1/2020,005491-7,VW - VolksWagen,Gol,56643,Flex,4x2 | Integral on-road,1.6,8V,nan,,5p,,Aspirado,MSI
+46,9/1/2020,005519-0,VW - VolksWagen,Golf,199326,Hibrido,4x2 | Integral on-road,1.4,16V,nan,,nan,Aut, Turbo,GTE TSI   Híbrido
+47,9/1/2020,005507-7,VW - VolksWagen,JETTA,93454,Flex,4x2 | Integral on-road,1.4,16v,nan,,nan,Aut, Turbo,250 TSI
+48,9/1/2020,005504-2,VW - VolksWagen,JETTA,118338,Flex,4x2 | Integral on-road,1.4,16v,nan,,nan,Aut, Turbo,Comfort 250 TSI
+49,9/1/2020,005517-4,VW - VolksWagen,JETTA,158019,Gasolina,4x2 | Integral on-road,2,16V,nan,,4p,Aut, Turbo,GLI 350 TSI
+50,9/1/2020,005503-4,VW - VolksWagen,JETTA,126982,Flex,4x2 | Integral on-road,1.4,16V,nan,,nan,Aut, Turbo,R-Line 250 TSI
+51,9/1/2020,005525-5,VW - VolksWagen,Nivus,87967,Flex,4x2 | Integral on-road,1,,nan,,nan,Aut, Turbo,Comfortline  200 TSI
+52,9/1/2020,005526-3,VW - VolksWagen,Nivus,98984,Flex,4x2 | Integral on-road,1,,nan,,nan,Aut, Turbo,Highline  200 TSI
+53,9/1/2020,005524-7,VW - VolksWagen,Nivus,99400,Flex,4x2 | Integral on-road,1,,nan,,nan,Aut, Turbo,Launching Ed  200 TSI
+54,9/1/2020,005447-0,VW - VolksWagen,Passat,168900,Gasolina,4x2 | Integral on-road,2,,nan,220,nan,, Turbo,Highline  TSI  Tip
+55,9/1/2020,005479-8,VW - VolksWagen,Polo,56013,Flex,4x2 | Integral on-road,1,12V,nan,,5p,,Aspirado,
+56,9/1/2020,005478-0,VW - VolksWagen,Polo,64432,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,,Aspirado,MSI
+57,9/1/2020,005499-2,VW - VolksWagen,Polo,65059,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Aut,Aspirado,MSI
+58,9/1/2020,005477-1,VW - VolksWagen,Polo,74561,Flex,4x2 | Integral on-road,1,12V,nan,,nan,Aut, Turbo,Comfort 200 TSI
+59,9/1/2020,005521-2,VW - VolksWagen,Polo,101998,Flex,4x2 | Integral on-road,1.4,16V,nan,,nan,, Turbo,GTS  TSI
+60,9/1/2020,005476-3,VW - VolksWagen,Polo,83648,Flex,4x2 | Integral on-road,1,12V,nan,,nan,Aut, Turbo,Highline 200 TSI
+61,9/1/2020,005513-1,VW - VolksWagen,Polo,69990,Flex,4x2 | Integral on-road,1,12V,nan,,nan,Aut, Turbo,Sense 200 TSI    (PCD)
+62,9/1/2020,005408-9,VW - VolksWagen,Saveiro,82355,Flex,4x2 | Integral on-road,1.6,16V,nan,,nan,,Aspirado,CROSS    CD
+63,9/1/2020,005459-3,VW - VolksWagen,Saveiro,55746,Flex,4x2 | Integral on-road,1.6,8V,nan,,nan,,Aspirado,Robust
+64,9/1/2020,005472-0,VW - VolksWagen,Saveiro,69521,Flex,4x2 | Integral on-road,1.6,8V,nan,,nan,,Aspirado,Robust    CD
+65,9/1/2020,005386-4,VW - VolksWagen,Saveiro,69410,Flex,4x2 | Integral on-road,1.6,8V,nan,,nan,,Aspirado,Trendline
+66,9/1/2020,005510-7,VW - VolksWagen,T-Cross,91286,Flex,4x2 | Integral on-road,1,12V,nan,,5p,Aut, Turbo,TSI
+67,9/1/2020,005511-5,VW - VolksWagen,T-Cross,87112,Flex,4x2 | Integral on-road,1,12V,nan,,5p,Mec, Turbo,TSI
+68,9/1/2020,005509-3,VW - VolksWagen,T-Cross,106143,Flex,4x2 | Integral on-road,1,,nan,,5p,Aut, Turbo,Comfortline  TSI
+69,9/1/2020,005508-5,VW - VolksWagen,T-Cross,121783,Flex,4x2 | Integral on-road,1.4,16V,nan,,5p,Aut, Turbo,Highline  TSI
+70,9/1/2020,005520-4,VW - VolksWagen,T-Cross,69990,Flex,4x2 | Integral on-road,1,,nan,,5p,Aut, Turbo,Sense  TSI   (PCD)
+71,9/1/2020,005488-7,VW - VolksWagen,TIGUAN,141634,Flex,4x2 | Integral on-road,1.4,,nan,,nan,, Turbo,Allspac 250 TSI
+72,9/1/2020,005487-9,VW - VolksWagen,TIGUAN,161250,Flex,4x2 | Integral on-road,1.4,,nan,,nan,, Turbo,Allspac Comf 250 TSI
+73,9/1/2020,005489-5,VW - VolksWagen,TIGUAN,199714,Gasolina,4x4 off-road,2,,nan,,nan,, Turbo,Allspac R-Line 350 TSI
+74,9/1/2020,005514-0,VW - VolksWagen,up!,48476,Flex,4x2 | Integral on-road,1,12V,nan,,5p,,Aspirado,
+75,9/1/2020,005515-8,VW - VolksWagen,up!,54195,Flex,4x2 | Integral on-road,1,12V,nan,,5p,, Turbo,Connect  TSI
+76,9/1/2020,005516-6,VW - VolksWagen,up!,56052,Flex,4x2 | Integral on-road,1,12V,nan,,5p,, Turbo,Xtreme  TSI
+77,9/1/2020,005500-0,VW - VolksWagen,VIRTUS,75780,Flex,4x2 | Integral on-road,1.6,16V,nan,,4p,Aut,Aspirado,MSI
+78,9/1/2020,005486-0,VW - VolksWagen,VIRTUS,69832,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Mec,Aspirado,MSI
+79,9/1/2020,005485-2,VW - VolksWagen,VIRTUS,83142,Flex,4x2 | Integral on-road,1,12V,nan,,nan,Aut, Turbo,Comfort 200 TSI
+80,9/1/2020,005522-0,VW - VolksWagen,VIRTUS,111048,Flex,4x2 | Integral on-road,1.4,16V,nan,,4p,, Turbo,GTS  TSI
+81,9/1/2020,005484-4,VW - VolksWagen,VIRTUS,91848,Flex,4x2 | Integral on-road,1,12V,nan,,nan,Aut, Turbo,Highline 200 TSI
+82,9/1/2020,005512-3,VW - VolksWagen,VIRTUS,68490,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Aut,Aspirado,Sense      (PCD)
+83,9/1/2020,005492-5,VW - VolksWagen,VOYAGE,58177,Flex,4x2 | Integral on-road,1,12V,nan,,4p,,Aspirado,
+84,9/1/2020,005501-8,VW - VolksWagen,VOYAGE,65515,Flex,4x2 | Integral on-road,1.6,16V,nan,,4p,Aut,Aspirado,MSI
+85,9/1/2020,005493-3,VW - VolksWagen,VOYAGE,62833,Flex,4x2 | Integral on-road,1.6,8V,nan,,4p,,Aspirado,MSI
+86,9/1/2020,035069-9,Porsche,718,426100,Gasolina,4x2 | Integral on-road,2,,nan,300,nan,,Aspirado,Boxster
+87,9/1/2020,035103-2,Porsche,718,541150,Gasolina,4x2 | Integral on-road,2.5,,nan,365,nan,,Aspirado,Boxster GTS
+88,9/1/2020,035070-2,Porsche,718,482675,Gasolina,4x2 | Integral on-road,2.5,,nan,350,nan,,Aspirado,Boxster S
+89,9/1/2020,035084-2,Porsche,718,389150,Gasolina,4x2 | Integral on-road,2,,nan,300,nan,,Aspirado,Cayman
+90,9/1/2020,035101-6,Porsche,718,489159,Gasolina,4x2 | Integral on-road,2.5,,nan,365,nan,,Aspirado,Cayman GTS
+91,9/1/2020,035086-9,Porsche,718,461175,Gasolina,4x2 | Integral on-road,2.5,,nan,350,nan,,Aspirado,Cayman S
+92,9/1/2020,035080-0,Porsche,911,922800,Gasolina,4x2 | Integral on-road,3,,nan,,nan,,Aspirado,Carrera 4S Cabriolet  (991/992)
+93,9/1/2020,035078-8,Porsche,911,790900,Gasolina,4x2 | Integral on-road,3,,nan,,nan,,Aspirado,Carrera 4S Coupe  (991/992)
+94,9/1/2020,035076-1,Porsche,911,596850,Gasolina,4x2 | Integral on-road,3,,nan,,nan,,Aspirado,Carrera Coupe  (991/992)
+95,9/1/2020,035072-9,Porsche,911,874800,Gasolina,4x2 | Integral on-road,3,,nan,,nan,,Aspirado,Carrera S Cabriolet  (991/992)
+96,9/1/2020,035077-0,Porsche,911,771247,Gasolina,4x2 | Integral on-road,3,,nan,,nan,,Aspirado,Carrera S Coupe  (991/992)
+97,9/1/2020,035115-6,Porsche,911,2354000,Gasolina,4x2 | Integral on-road,3.8,,V6,700,nan,,Aspirado,GT2 RS    (991)
+98,9/1/2020,035099-0,Porsche,911,1130125,Gasolina,4x2 | Integral on-road,4,,nan,500,nan,,Aspirado,GT3   (991)
+99,9/1/2020,035082-6,Porsche,911,1375400,Gasolina,4x2 | Integral on-road,,,nan,,nan,,Aspirado,GT3 RS
+100,9/1/2020,035123-7,Porsche,911,1635699,Gasolina,4x2 | Integral on-road,4,,nan,510,nan,,Aspirado,SPEEDSTER
+101,9/1/2020,035030-3,Porsche,911,1501200,Gasolina,4x2 | Integral on-road,3.6,24V,nan,,nan,, Turbo,Turbo S Coupe /38  (991/992)
+102,9/1/2020,035116-4,Porsche,Cayenne,471925,Gasolina,4x2 | Integral on-road,3,,V6,340,nan,, Turbo,Turbo
+103,9/1/2020,035121-0,Porsche,Cayenne,537116,Gasolina,4x2 | Integral on-road,3,,V6,340,nan,, Turbo,Coupe  Turbo
+104,9/1/2020,035122-9,Porsche,Cayenne,1051600,Hibrido,4x2 | Integral on-road,4,,nan,,nan,, Turbo,Coupe Turbo S E-Hybrid
+105,9/1/2020,035120-2,Porsche,Cayenne,467625,Hibrido,4x2 | Integral on-road,3,,V6,462,nan,,Aspirado,E-Hybrid
+106,9/1/2020,035117-2,Porsche,Cayenne,583735,Gasolina,4x2 | Integral on-road,2.9,,V6,440,nan,, bi-turbo,S
+107,9/1/2020,035118-0,Porsche,Cayenne,894000,Gasolina,4x2 | Integral on-road,4,,V8,550,nan,, Turbo,Turbo
+108,9/1/2020,035060-5,Porsche,Macan,366401,Gasolina,4x2 | Integral on-road,2,,nan,252,nan,, Turbo,Turbo 237/
+109,9/1/2020,035124-5,Porsche,Macan,519750,Gasolina,4x2 | Integral on-road,2.9,,nan,380,nan,, bi-turbo,GTS
+110,9/1/2020,035055-9,Porsche,Macan,439950,Gasolina,4x2 | Integral on-road,3,,nan,,nan,, bi-turbo,S
+111,9/1/2020,035090-7,Porsche,Panamera,609525,Gasolina,4x2 | Integral on-road,3,,nan,330,nan,,Aspirado,
+112,9/1/2020,035112-1,Porsche,Panamera,633175,Gasolina,4x2 | Integral on-road,3,,nan,330,nan,,Aspirado,4
+113,9/1/2020,035098-2,Porsche,Panamera,582940,Hibrido,4x2 | Integral on-road,2.9,,nan,462,nan,,Aspirado,4 E-Hybrid
+114,9/1/2020,035105-9,Porsche,Panamera,596520,Hibrido,4x2 | Integral on-road,2.9,,nan,462,nan,,Aspirado,4 E-Hybrid Sport Tur
+115,9/1/2020,035108-3,Porsche,Panamera,613866,Hibrido,4x2 | Integral on-road,2.9,,nan,462,nan,,Aspirado,4 E-Hybrid Executive
+116,9/1/2020,035111-3,Porsche,Panamera,666500,Gasolina,4x2 | Integral on-road,3,,nan,330,nan,,Aspirado,4 Executive
+117,9/1/2020,035104-0,Porsche,Panamera,646075,Gasolina,4x2 | Integral on-road,3,,nan,330,nan,,Aspirado,4 Sport Turismo
+118,9/1/2020,035114-8,Porsche,Panamera,1318562,Hibrido,4x2 | Integral on-road,4,,nan,,nan,, Turbo,S E-Hybrid Sport Turis
+119,9/1/2020,035087-7,Porsche,Panamera,1096700,Gasolina,4x2 | Integral on-road,4,,nan,550,nan,, Turbo,Turbo
+120,9/1/2020,035100-8,Porsche,Panamera,1376100,Hibrido,4x2 | Integral on-road,4,,nan,680,nan,, Turbo,Turbo S E-Hybrid
+121,9/1/2020,035107-5,Porsche,Panamera,1386000,Hibrido,4x2 | Integral on-road,4,,nan,,nan,, Turbo,Turbo S E-Hybrid Exec
+122,9/1/2020,035102-4,Porsche,Panamera,1090100,Gasolina,4x2 | Integral on-road,4,,nan,,nan,, Turbo,Turbo Sport Turismo
+123,9/1/2020,009258-4,BMW,118i,182301,Gasolina,4x2 | Integral on-road,1.5,12V,nan,,5p,Aut, Turbo,Sport
+124,9/1/2020,009212-6,BMW,120iA,181255,Flex,4x2 | Integral on-road,2,16V,nan,,nan,Aut,Aspirado,Sport /Active
+125,9/1/2020,009264-9,BMW,218i,194198,Gasolina,4x2 | Integral on-road,1.5,,nan,,nan,, bi-turbo,Gran Coupe Sport GP
+126,9/1/2020,009213-4,BMW,320iA,254508,Flex,4x2 | Integral on-road,2,,nan,,4p,, Turbo,M Sport A/MSport
+127,9/1/2020,009164-2,BMW,320iA,222013,Flex,4x2 | Integral on-road,2,16V,nan,,4p,, Turbo,Turbo/Active /GP
+128,9/1/2020,009165-0,BMW,320iA,231358,Flex,4x2 | Integral on-road,2,,nan,,4p,, Turbo,Modern/Sport  /A/GP
+129,9/1/2020,009266-5,BMW,330e,296242,Hibrido,4x2 | Integral on-road,2,,nan,,nan,Aut, Turbo,M Sport  Turbo Híbrido
+130,9/1/2020,009240-1,BMW,330i,316240,Gasolina,4x2 | Integral on-road,2,16V,nan,,4p,, Turbo,M Sport
+131,9/1/2020,009244-4,BMW,330i,260472,Gasolina,4x2 | Integral on-road,2,16V,nan,,4p,, Turbo,Sport
+132,9/1/2020,009224-0,BMW,430i,343869,Gasolina,4x2 | Integral on-road,2,,nan,252,2p,, Turbo,Cabriolet Sport
+133,9/1/2020,009238-0,BMW,530e,366252,Hibrido,4x2 | Integral on-road,2,,nan,,nan,Aut, Turbo,M Sport  Turbo Híbrido
+134,9/1/2020,009226-6,BMW,530i,304944,Gasolina,4x2 | Integral on-road,2,,nan,252,nan,Aut, Turbo,M Sport  Turbo
+135,9/1/2020,009225-8,BMW,540i,478488,Gasolina,4x2 | Integral on-road,3,,nan,340,nan,Aut, Turbo,M Sport  Turbo
+136,9/1/2020,009257-6,BMW,745Le,564760,Hibrido,4x2 | Integral on-road,3,,V6,,nan,Aut,Aspirado,M Sport Sedan   Híbrido
+137,9/1/2020,009252-5,BMW,i3,234280,Elétrico,4x2 | Integral on-road,Elétrico,,nan,170,nan,Aut,Elétrico,Bev
+138,9/1/2020,009253-3,BMW,i3,254610,Elétrico,4x2 | Integral on-road,Elétrico,,nan,170,nan,Aut,Elétrico,Bev Connected
+139,9/1/2020,009254-1,BMW,i3,255361,Elétrico,4x2 | Integral on-road,Elétrico,,nan,170,nan,Aut,Elétrico,Bev Full
+140,9/1/2020,009196-0,BMW,i3,216057,Elétrico,4x2 | Integral on-road,Elétrico,,nan,170,nan,Aut,Elétrico,Rex E Drive
+141,9/1/2020,009247-9,BMW,i3,232546,Elétrico,4x2 | Integral on-road,Elétrico,,nan,,nan,Aut,Elétrico,Rex E Drive Connected
+142,9/1/2020,009195-2,BMW,i3,286974,Elétrico,4x2 | Integral on-road,Elétrico,,nan,170,nan,Aut,Elétrico,Rex E Drive Full
+143,9/1/2020,009197-9,BMW,i8,622383,Gasolina,4x2 | Integral on-road,1.5,12V,nan,,nan,Aut, Turbo,e-Drive
+144,9/1/2020,009259-2,BMW,i8,783490,Gasolina,4x2 | Integral on-road,1.5,12V,nan,,nan,Aut, Turbo,Roadster e-Drive
+145,9/1/2020,009261-4,BMW,M,297231,Gasolina,4x2 | Integral on-road,2,,nan,306,nan,Aut,Aspirado,135i XDRIVE
+146,9/1/2020,009222-3,BMW,M140i,257485,Gasolina,4x2 | Integral on-road,3,24V,nan,340,5p,,Aspirado,
+147,9/1/2020,009234-7,BMW,M2,431403,Gasolina,4x2 | Integral on-road,3,,nan,410,nan,Aut, bi-turbo,Competition
+148,9/1/2020,009270-3,BMW,M235i,309802,Gasolina,4x2 | Integral on-road,2,,nan,,nan,Aut,Aspirado,XDRIVE Gran Coupé
+149,9/1/2020,009269-0,BMW,M340i,422489,Gasolina,4x2 | Integral on-road,3,,nan,,nan,Aut, Turbo,XDRIVE  Turbo
+150,9/1/2020,009267-3,BMW,M340i,430345,Gasolina,4x2 | Integral on-road,3,,nan,,nan,Aut, Turbo,XDRIVE First Ed  Turbo
+151,9/1/2020,009206-1,BMW,M4,452910,Gasolina,4x2 | Integral on-road,3,24V,nan,431,2p,, bi-turbo,Coupe
+152,9/1/2020,009230-4,BMW,M4,595820,Gasolina,4x2 | Integral on-road,3,,nan,460,2p,, bi-turbo,CS Coupe
+153,9/1/2020,009232-0,BMW,M5,734463,Gasolina,4x2 | Integral on-road,4.4,,V8,,nan,, bi-turbo,M XDRIVE
+154,9/1/2020,009233-9,BMW,M5,795955,Gasolina,4x2 | Integral on-road,4.4,,V8,,nan,, bi-turbo,Perform Pack M XDRIVE
+155,9/1/2020,009248-7,BMW,M760Li,812055,Gasolina,4x2 | Integral on-road,6.6,,V12,585,nan,Aut,Aspirado,xDrive
+156,9/1/2020,009246-0,BMW,M850i,837750,Gasolina,4x2 | Integral on-road,4.4,,V8,530,nan,Aut,Aspirado,XDrive Coupé
+157,9/1/2020,009172-3,BMW,X1,222533,Flex,4x2 | Integral on-road,2,,nan,,nan,Aut, Turbo,SDRIVE 20i Acti
+158,9/1/2020,009239-8,BMW,X1,243840,Flex,4x2 | Integral on-road,2,,nan,,nan,, Turbo,SDRIVE 20i X-Line
+159,9/1/2020,009216-9,BMW,X1,265060,Flex,4x2 | Integral on-road,2,,nan,,nan,Aut,Aspirado,XDRIVE 25i Sport
+160,9/1/2020,009255-0,BMW,X2,338202,Gasolina,4x2 | Integral on-road,2,,nan,306,nan,Aut, Turbo,M35i  Turbo
+161,9/1/2020,009229-0,BMW,X2,277499,Flex,4x2 | Integral on-road,2,,nan,,nan,Aut, Turbo,SDRIVE  20i M Sp/M Sp
+162,9/1/2020,009235-5,BMW,X2,208040,Flex,4x2 | Integral on-road,1.5,,nan,136,nan,Aut,Aspirado,SDRIVE 18i  Active
+163,9/1/2020,009231-2,BMW,X2,241529,Flex,4x2 | Integral on-road,2,16V,nan,,nan,Aut, Turbo,SDRIVE 20i A
+164,9/1/2020,009256-8,BMW,X3,637257,Gasolina,4x2 | Integral on-road,3,,nan,510,nan,Aut, bi-turbo,M Competition
+165,9/1/2020,009227-4,BMW,X3,456645,Gasolina,4x2 | Integral on-road,3,,V6,360,nan,Aut, Turbo,M40i  Turbo
+166,9/1/2020,009180-4,BMW,X3,315617,Flex,4x2 | Integral on-road,2,,nan,,nan,Aut, bi-turbo,XDRIVE 20i /X-Line
+167,9/1/2020,009228-2,BMW,X3,355792,Gasolina,4x2 | Integral on-road,2,,nan,252,nan,Aut, Turbo,XDRIVE 30i X-Line  Turbo
+168,9/1/2020,009260-6,BMW,X4,651039,Gasolina,4x2 | Integral on-road,3,,nan,510,nan,Aut, bi-turbo,M Competition
+169,9/1/2020,009237-1,BMW,X4,490076,Gasolina,4x2 | Integral on-road,3,,V6,360,nan,Aut, Turbo,M40i  Turbo
+170,9/1/2020,009236-3,BMW,X4,371537,Gasolina,4x2 | Integral on-road,2,,nan,252,nan,Aut,Aspirado,XDRIVE 30i M-Sport  Tb
+171,9/1/2020,009214-2,BMW,X5,506294,Diesel,4x2 | Integral on-road,3,,nan,,nan,,Aspirado,XDRIVE 30d
+172,9/1/2020,009241-0,BMW,X5,544492,Diesel,4x2 | Integral on-road,3,,nan,265,nan,Aut,Aspirado,XDRIVE 30d M Sport
+173,9/1/2020,009262-2,BMW,X5,492386,Hibrido,4x2 | Integral on-road,3,,nan,,nan,Aut,Aspirado,XDRIVE 45e  MSport Híbrido
+174,9/1/2020,009207-0,BMW,X5,626200,Diesel,4x2 | Integral on-road,3,,nan,,nan,,Aspirado,XDRIVE M50d
+175,9/1/2020,009263-0,BMW,X6,563983,Gasolina,4x2 | Integral on-road,3,,nan,,nan,, bi-turbo,XDRIVE 40i M Sport
+176,9/1/2020,009265-7,BMW,X7,796692,Gasolina,4x2 | Integral on-road,4.4,,V8,,nan,Aut, bi-turbo,M50i
+177,9/1/2020,009250-9,BMW,X7,747950,Gasolina,4x2 | Integral on-road,4.4,,V8,,nan,Aut, bi-turbo,XDRIVE 50i M Sport
+178,9/1/2020,009249-5,BMW,Z4,430653,Gasolina,4x2 | Integral on-road,3,,nan,340,nan,Aut,Aspirado,M40i
+179,9/1/2020,009245-2,BMW,Z4,351586,Gasolina,4x2 | Integral on-road,2,,nan,,nan,Aut, Turbo,Roadster sDRIVE 30i MSport
+180,9/1/2020,023160-6,Nissan,Frontier,154004,Diesel,4x4 off-road,2.3,,nan,,nan,Aut, bi-turbo,ATTACCD    Die
+181,9/1/2020,023153-3,Nissan,Frontier,194312,Diesel,4x4 off-road,2.3,,nan,,nan,Aut, bi-turbo,LE CD
+182,9/1/2020,023161-4,Nissan,Frontier,140654,Diesel,4x4 off-road,2.3,,nan,,nan,Mec, Turbo,S CD
+183,9/1/2020,023159-2,Nissan,Frontier,176756,Diesel,4x4 off-road,2.3,,nan,,nan,Aut, bi-turbo,XE CD
+184,9/1/2020,023151-7,Nissan,GT-R,880707,Gasolina,4x2 | Integral on-road,3.8,,V6,,nan,Aut, Turbo,BiTurbo
+185,9/1/2020,023156-8,Nissan,KICKS,85174,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Aut,Aspirado,S
+186,9/1/2020,023155-0,Nissan,KICKS,76127,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Mec,Aspirado,S   Star
+187,9/1/2020,023158-4,Nissan,KICKS,69990,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Aut,Aspirado,S Direct     (PCD)
+188,9/1/2020,023149-5,Nissan,KICKS,100352,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Aut,Aspirado,SL   Star
+189,9/1/2020,023165-7,Nissan,KICKS,95325,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Aut,Aspirado,Special Ed
+190,9/1/2020,023166-5,Nissan,KICKS,82990,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Mec,Aspirado,Special Ed
+191,9/1/2020,023154-1,Nissan,KICKS,89049,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Aut,Aspirado,SV   Star
+192,9/1/2020,023162-2,Nissan,KICKS,94534,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Aut,Aspirado,UCL
+193,9/1/2020,023163-0,Nissan,LEAF,195000,Elétrico,4x2 | Integral on-road,Elétrico,,nan,,nan,Aut,Elétrico,
+194,9/1/2020,023139-8,Nissan,MARCH,64883,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Aut,Aspirado,SL   Start
+195,9/1/2020,023130-4,Nissan,MARCH,49145,Flex,4x2 | Integral on-road,1,12V,nan,,5p,,Aspirado,SV
+196,9/1/2020,023143-6,Nissan,MARCH,61584,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Aut,Aspirado,SV   Start
+197,9/1/2020,023145-2,Nissan,MARCH,55802,Flex,4x2 | Integral on-road,1.6,16V,nan,,5p,Mec,Aspirado,SV   Start
+198,9/1/2020,023135-5,Nissan,Sentra,85257,Flex,4x2 | Integral on-road,2,16V,nan,,nan,Aut,Aspirado,S  Start
+199,9/1/2020,023136-3,Nissan,Sentra,104521,Flex,4x2 | Integral on-road,2,16V,nan,,nan,Aut,Aspirado,SL  Start
+200,9/1/2020,023123-1,Nissan,Sentra,92291,Flex,4x2 | Integral on-road,2,16V,nan,,nan,Aut,Aspirado,SV  Start
+201,9/1/2020,023131-2,Nissan,VERSA,52761,Flex,4x2 | Integral on-road,1,12V,nan,,4p,Mec,Aspirado,Start
+202,9/1/2020,023142-8,Nissan,VERSA,55091,Flex,4x2 | Integral on-road,1.6,16V,nan,,4p,Mec,Aspirado,S   Start
+203,9/1/2020,023140-1,Nissan,VERSA,71313,Flex,4x2 | Integral on-road,1.6,16V,nan,,4p,Aut,Aspirado,SL   Start
+204,9/1/2020,023164-9,Nissan,VERSA,69990,Flex,4x2 | Integral on-road,1.6,16V,nan,,nan,Aut,Aspirado,SL Direct      (PCD)
+205,9/1/2020,023167-3,Nissan,VERSA,63168,Flex,4x2 | Integral on-road,1.6,16V,nan,,nan,Aut,Aspirado,Special Ed   Start
+206,9/1/2020,023144-4,Nissan,VERSA,64462,Flex,4x2 | Integral on-road,1.6,16V,nan,,4p,Aut,Aspirado,SV   Start
+207,9/1/2020,023137-1,Nissan,VERSA,63730,Flex,4x2 | Integral on-road,1.6,16V,nan,,4p,Mec,Aspirado,SV   Start
+208,9/1/2020,023169-0,Nissan,VERSA,59318,Flex,4x2 | Integral on-road,1,12V,nan,,nan,Mec,Aspirado,V-DRIVE
+209,9/1/2020,023170-3,Nissan,VERSA,62335,Flex,4x2 | Integral on-road,1.6,16V,nan,,nan,Mec,Aspirado,V-DRIVE
+210,9/1/2020,023168-1,Nissan,VERSA,70243,Flex,4x2 | Integral on-road,1.6,16v,nan,,nan,Aut,Aspirado,V-DRIVE EspEd
+211,9/1/2020,016057-1,Jaguar,E-Pace,229985,Flex,4x2 | Integral on-road,2,,nan,249,nan,Aut,Aspirado,AWD  /
+212,9/1/2020,016058-0,Jaguar,E-Pace,285325,Flex,4x2 | Integral on-road,2,,nan,249,nan,,Aspirado,R-Dynamic S  AWD
+213,9/1/2020,016059-8,Jaguar,E-Pace,309937,Gasolina,4x2 | Integral on-road,2,,nan,300,nan,Aut,Aspirado,R-Dynamic SE  AWD
+214,9/1/2020,016071-7,Jaguar,E-Pace,260039,Flex,4x2 | Integral on-road,2,,nan,249,nan,Aut,Aspirado,S  AWD
+215,9/1/2020,016052-0,Jaguar,F-Pace,363475,Diesel,4x2 | Integral on-road,2,,nan,180,nan,Aut,Aspirado,Prestige
+216,9/1/2020,016055-5,Jaguar,F-Pace,351600,Gasolina,4x2 | Integral on-road,2,,nan,250,nan,Aut,Aspirado,Prestige
+217,9/1/2020,016056-3,Jaguar,F-Pace,401228,Gasolina,4x2 | Integral on-road,2,,nan,250,nan,Aut,Aspirado,R-Sport
+218,9/1/2020,016050-4,Jaguar,F-Pace,474300,Gasolina,4x2 | Integral on-road,3,,nan,380,nan,Aut,Aspirado,S
+219,9/1/2020,016073-3,Jaguar,F-PACE,580950,Gasolina,4x2 | Integral on-road,5,,V8,,nan,,Supercharged,SVR Supercharged
+220,9/1/2020,016067-9,Jaguar,F-Type,416000,Gasolina,4x2 | Integral on-road,2,,nan,300,nan,Aut,Aspirado,R-Dynamic Cabriolet
+221,9/1/2020,016064-4,Jaguar,F-Type,397081,Gasolina,4x2 | Integral on-road,2,,nan,300,nan,Aut,Aspirado,R-Dynamic Coupe
+222,9/1/2020,016061-0,Jaguar,F-Type,831940,Gasolina,4x2 | Integral on-road,5,,V8,,nan,,Supercharged,SVR AWD Supercharged Coupe
+223,9/1/2020,016069-5,Jaguar,I-Pace,477375,Elétrico,4x2 | Integral on-road,Elétrico,,nan,,nan,Aut,Elétrico,SE EV400 AWD
+224,9/1/2020,016072-5,Jaguar,XE,303955,Gasolina,4x2 | Integral on-road,2,,nan,250,nan,Aut,Aspirado,R-Dynamic S
+225,9/1/2020,016070-9,Jaguar,XE,245476,Gasolina,4x2 | Integral on-road,2,,nan,,nan,Aut, Turbo,Turbocharged Edition
+226,9/1/2020,016044-0,Jaguar,XE,234950,Gasolina,4x2 | Integral on-road,2,,nan,,nan,Aut, Turbo,Turbocharged R-Sport
+227,9/1/2020,016048-2,Jaguar,XF,321350,Gasolina,4x2 | Integral on-road,2,,nan,,nan,Aut,Aspirado,R-SPORT
+228,9/1/2020,016054-7,Jaguar,XJ,421027,Gasolina,4x2 | Integral on-road,3,,V6,,nan,Aut,Supercharged,R-Sport Supercharged
+229,9/1/2020,014101-1,Honda,Accord,216576,Gasolina,4x2 | Integral on-road,2,16V,nan,,nan,Aut, Turbo,Sedan Touring
+230,9/1/2020,014068-6,Honda,CITY,64182,Flex,4x2 | Integral on-road,1.5,16V,nan,,nan,Mec,Aspirado,Sedan DX
+231,9/1/2020,014061-9,Honda,CITY,79963,Flex,4x2 | Integral on-road,1.5,16V,nan,,4p,Aut,Aspirado,Sedan EX
+232,9/1/2020,014063-5,Honda,CITY,84970,Flex,4x2 | Integral on-road,1.5,16V,nan,,4p,Aut,Aspirado,Sedan EXL
+233,9/1/2020,014059-7,Honda,CITY,75195,Flex,4x2 | Integral on-road,1.5,16V,nan,,4p,Aut,Aspirado,Sedan LX
+234,9/1/2020,014098-8,Honda,CITY,67105,Flex,4x2 | Integral on-road,1.5,16V,nan,,nan,Aut,Aspirado,Sedan Personal
+235,9/1/2020,014099-6,Honda,Civic,179450,Gasolina,4x2 | Integral on-road,1.5,16V,nan,208,2p,Mec, Turbo,Coupe Si
+236,9/1/2020,014091-0,Honda,Civic,107940,Flex,4x2 | Integral on-road,2,16V,nan,,4p,Aut,Aspirado,Sedan EX
+237,9/1/2020,014090-2,Honda,Civic,112649,Flex,4x2 | Integral on-road,2,16V,nan,,4p,Aut,Aspirado,Sedan EXL
+238,9/1/2020,014103-8,Honda,Civic,98221,Flex,4x2 | Integral on-road,2,16V,nan,,4p,Aut,Aspirado,Sedan LX
+239,9/1/2020,014092-9,Honda,Civic,103938,Flex,4x2 | Integral on-road,2,16V,nan,,4p,Aut,Aspirado,Sedan SPORT
+240,9/1/2020,014089-9,Honda,Civic,136383,Gasolina,4x2 | Integral on-road,1.5,16V,nan,,4p,Aut, Turbo,Sedan TOURING  Turbo
+241,9/1/2020,014100-3,Honda,CR-V,201064,Gasolina,4x2 | Integral on-road,1.5,16V,nan,,5p,Aut,Aspirado,Touring   4WD
+242,9/1/2020,014083-0,Honda,Fit,63622,Flex,4x2 | Integral on-road,1.5,16V,nan,,5p,Mec,Aspirado,DX  one
+243,9/1/2020,014045-7,Honda,Fit,78748,Flex,4x2 | Integral on-road,1.5,16V,nan,,5p,Aut,Aspirado,EX/S/EX  /one
+244,9/1/2020,014056-2,Honda,Fit,83855,Flex,4x2 | Integral on-road,1.5,16V,nan,,5p,Aut,Aspirado,EXL  /one
+245,9/1/2020,014081-3,Honda,Fit,73937,Flex,4x2 | Integral on-road,1.5,16V,nan,,5p,Aut,Aspirado,LX  one
+246,9/1/2020,014097-0,Honda,Fit,67105,Flex,4x2 | Integral on-road,1.5,16V,nan,,5p,Aut,Aspirado,Personal  one
+247,9/1/2020,014087-2,Honda,HR-V,102130,Flex,4x2 | Integral on-road,1.8,16V,nan,,5p,Aut,Aspirado,EX  one
+248,9/1/2020,014088-0,Honda,HR-V,110801,Flex,4x2 | Integral on-road,1.8,16V,nan,,5p,Aut,Aspirado,EXL  one
+249,9/1/2020,014086-4,Honda,HR-V,93919,Flex,4x2 | Integral on-road,1.8,16V,nan,,5p,Aut,Aspirado,LX  one
+250,9/1/2020,014102-0,Honda,HR-V,135770,Gasolina,4x2 | Integral on-road,1.5,16V,nan,,5p,Aut, Turbo,Touring
+251,9/1/2020,014094-5,Honda,WR-V,83209,Flex,4x2 | Integral on-road,1.5,16V,nan,,5p,Aut,Aspirado,EX  one
+252,9/1/2020,014095-3,Honda,WR-V,87215,Flex,4x2 | Integral on-road,1.5,16V,nan,,5p,Aut,Aspirado,EXL  one
+253,9/1/2020,031037-9,Ferrari,488,2479732,Gasolina,4x2 | Integral on-road,3.9,,V8,670,nan,, Turbo,G
+254,9/1/2020,031046-8,Ferrari,488,3850000,Gasolina,4x2 | Integral on-road,3.9,,V8,720,nan,,Aspirado,Pista
+255,9/1/2020,031045-0,Ferrari,488,4599251,Gasolina,4x2 | Integral on-road,3.9,,V8,720,nan,,Aspirado,Pista Spider
+256,9/1/2020,031039-5,Ferrari,488,3620000,Gasolina,4x2 | Integral on-road,3.9,,V8,670,nan,,Aspirado,Spider
+257,9/1/2020,031042-5,Ferrari,812,4150000,Gasolina,4x2 | Integral on-road,,,V12,800,nan,,Aspirado,SUPERFAST
+258,9/1/2020,031041-7,Ferrari,GTC4,3552020,Gasolina,4x2 | Integral on-road,6.3,,V12,690,nan,,Aspirado,LUSSO
+259,9/1/2020,031043-3,Ferrari,GTC4,4100000,Gasolina,4x2 | Integral on-road,,,V8,610,nan,, Turbo,LUSSO
+260,9/1/2020,031044-1,Ferrari,PORTOFINO,2550100,Gasolina,4x2 | Integral on-road,3.9,,V8,600,nan,,Aspirado,
+261,9/1/2020,008255-4,Audi,A3,171117,Flex,4x2 | Integral on-road,1.4,,nan,,nan,, Turbo,Sed P Plus Tech   TFSI Tip
+262,9/1/2020,008252-0,Audi,A3,135323,Flex,4x2 | Integral on-road,1.4,,nan,,nan,, Turbo,Sed PPlus  25Anos  TFSI Tip
+263,9/1/2020,008256-2,Audi,A3,206864,Gasolina,4x2 | Integral on-road,2,,nan,,nan,, Turbo,Sed Perform Black  TFSI S-tronic
+264,9/1/2020,008237-6,Audi,A3,188169,Gasolina,4x2 | Integral on-road,2,,nan,,nan,, Turbo,Sedan Performance  TFSI S-tronic
+265,9/1/2020,008234-1,Audi,A3,142898,Flex,4x2 | Integral on-road,1.4,,nan,,nan,, Turbo,Sedan Prestige  TFSI  Tip
+266,9/1/2020,008235-0,Audi,A3,161694,Flex,4x2 | Integral on-road,1.4,,nan,,nan,, Turbo,Sedan Prestige Plus  TFSI  Tip
+267,9/1/2020,008233-3,Audi,A3,171010,Gasolina,4x2 | Integral on-road,1.4,,nan,,nan,, Turbo,Sportb Prestige Plus  TFSI S-tron
+268,9/1/2020,008246-5,Audi,A4,210120,Gasolina,4x2 | Integral on-road,2,,nan,,nan,, Turbo,Avant Prest Plus  TFSI S-tronic
+269,9/1/2020,008247-3,Audi,A4,165027,Gasolina,4x2 | Integral on-road,2,,nan,190,nan,, Turbo,Prestige  TFSI  S-tronic
+270,9/1/2020,008245-7,Audi,A4,205788,Gasolina,4x2 | Integral on-road,2,,nan,190,nan,, Turbo,Prestige Plus  TFSI  S tronic
+271,9/1/2020,008230-9,Audi,A5,267017,Gasolina,4x2 | Integral on-road,2,,nan,,nan,, Turbo,Sportb Perf  TFSI Quat S-tronic
+272,9/1/2020,008232-5,Audi,A5,199492,Gasolina,4x2 | Integral on-road,2,16V,nan,,nan,, Turbo,Sportb Prestige   TFSI S-troni
+273,9/1/2020,008229-5,Audi,A5,268564,Gasolina,4x2 | Integral on-road,2,,nan,,nan,, Turbo,SportbPerfB  TFSI Quat S-troni
+274,9/1/2020,008231-7,Audi,A5,218964,Gasolina,4x2 | Integral on-road,2,,nan,,nan,, Turbo,SportbPrestige Plus  TFSI S-tronc
+275,9/1/2020,008249-0,Audi,A5,235410,Gasolina,4x2 | Integral on-road,2,,nan,,nan,, Turbo,Sportback S-Line  TFSI S-tronic
+276,9/1/2020,008253-8,Audi,A6,453213,Gasolina,4x2 | Integral on-road,3,,nan,,nan,, Turbo,Performance  TFSI Quattro Stronic
+277,9/1/2020,008254-6,Audi,A7,490430,Gasolina,4x2 | Integral on-road,3,,nan,,nan,, Turbo,Sportback Perf  TFSI S-tron Quat
+278,9/1/2020,008258-9,Audi,E-TRON,566242,Elétrico,4x2 | Integral on-road,Elétrico,,nan,,nan,Aut,Elétrico,Performa Black
+279,9/1/2020,008257-0,Audi,E-TRON,518460,Elétrico,4x2 | Integral on-road,Elétrico,,nan,,nan,Aut,Elétrico,Performace
+280,9/1/2020,008225-2,Audi,Q3,239029,Flex,4x2 | Integral on-road,1.4,,nan,,nan,, Turbo,Black Ed  TFSI /Black S-tron
+281,9/1/2020,008228-7,Audi,Q3,217668,Flex,4x2 | Integral on-road,1.4,,nan,,nan,, Turbo,P Plus  TFSI /PPlus S-tronic
+282,9/1/2020,008227-9,Audi,Q3,203480,Flex,4x2 | Integral on-road,1.4,,nan,,nan,, Turbo,Prest  TFSI /Prest S-tronic
+283,9/1/2020,008224-4,Audi,Q5,332572,Gasolina,4x2 | Integral on-road,2,,nan,,nan,, Turbo,TFSI Quattro S tronic (Blindado)
+284,9/1/2020,008240-6,Audi,Q5,319233,Gasolina,4x2 | Integral on-road,2,,nan,,nan,, Turbo,Black  TFSI Quattro S tronic
+285,9/1/2020,008238-4,Audi,Q5,255020,Gasolina,4x2 | Integral on-road,2,,nan,,nan,, Turbo,Prestige  TFSI Quattro S tronic
+286,9/1/2020,008239-2,Audi,Q5,299298,Gasolina,4x2 | Integral on-road,2,,nan,,nan,, Turbo,Prestige Plus  TFSI Quat S tronic
+287,9/1/2020,008248-1,Audi,Q5,276343,Gasolina,4x2 | Integral on-road,2,,nan,,nan,, Turbo,S-Line  TFSI Quattro S-tronic
+288,9/1/2020,008213-9,Audi,Q7,426510,Diesel,4x2 | Integral on-road,3,,V6,,5p,, Turbo,QuatTip  Die/Perfor
+289,9/1/2020,008152-3,Audi,Q7,405100,Gasolina,4x2 | Integral on-road,3,,V6,,5p,, Turbo,TFSI  QuatTip/ Performance
+290,9/1/2020,008243-0,Audi,Q7,447820,Gasolina,4x2 | Integral on-road,3,,V6,,5p,, Turbo,Perf Black   TFSI QuatTip
+291,9/1/2020,008244-9,Audi,Q7,440215,Diesel,4x2 | Integral on-road,3,,nan,,5p,, Turbo,PerfBlack   QuatTip
+292,9/1/2020,008250-3,Audi,Q8,584050,Gasolina,4x2 | Integral on-road,3,,nan,,nan,, Turbo,PerfBl  TFSI Coupe Quat S-tron
+293,9/1/2020,008251-1,Audi,Q8,539092,Gasolina,4x2 | Integral on-road,3,,nan,,nan,, Turbo,Perform  TFSI Coupe Quat S-tron
+294,9/1/2020,008242-2,Audi,RS4,508991,Gasolina,4x2 | Integral on-road,2.9,,V6,,nan,, Turbo,Avant  TFSI Quattro Tiptronic
+295,9/1/2020,008241-4,Audi,RS5,523392,Gasolina,4x2 | Integral on-road,2.9,,V6,,nan,, Turbo,Coupê   TFSI Quattro Tiptronic
+296,9/1/2020,008191-4,Audi,S,421548,Gasolina,4x2 | Integral on-road,3,,V6,354,nan,, Turbo,Q5   TFSI  Quattro Tiptronic
+297,9/1/2020,022177-5,Mitsubishi,ASX,110802,Flex,4x2 | Integral on-road,2,16V,nan,,nan,Aut,Aspirado,GLS FWD
+298,9/1/2020,022175-9,Mitsubishi,ASX,127735,Flex,4x2 | Integral on-road,2,16V,nan,,nan,Aut,Aspirado,HPE AWD
+299,9/1/2020,022176-7,Mitsubishi,ASX,123068,Flex,4x2 | Integral on-road,2,16V,nan,,nan,Aut,Aspirado,HPE FWD
+300,9/1/2020,022174-0,Mitsubishi,ASX,135793,Flex,4x2 | Integral on-road,2,16V,nan,,nan,Aut,Aspirado,HPE-S AWD
+
